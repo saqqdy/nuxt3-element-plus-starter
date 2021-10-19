@@ -1,0 +1,8 @@
+{
+    "cSpell.words": ["jscool", "saqqdy", "typedoc", "esbuild", "nuxt3", "nuxt"],
+    "typescript.tsdk": "node_modules/typescript/lib",
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": true
+    },
+    "npm.packageManager": "yarn"
+}

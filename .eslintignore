@@ -1,0 +1,8 @@
+/dist
+/.nuxt
+/run
+/logs
+/test
+
+*.bak
+*_bak
