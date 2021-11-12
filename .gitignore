@@ -6,3 +6,5 @@ nuxt.d.ts
 
 *.bak
 *_bak
+
+yarn.lock
